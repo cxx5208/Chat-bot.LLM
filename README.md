@@ -49,7 +49,7 @@ This project demonstrates a conversational retrieval chain for implementing a ch
 
 The diagram below illustrates the Conversational Retrieval Chain implemented in this project:
 
-![Conversational Retrieval Chain](./path_to_image/ConversationalRetrievalChain.png)
+![image](https://github.com/cxx5208/LLM-Chat-bot/assets/76988460/16f2bb9a-fdd5-4e29-8230-d45697e5d88e)
 
 1. **Chat History**: Maintains the context of the conversation.
 2. **Question**: User query is processed.
